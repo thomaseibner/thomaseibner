@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @thomaseibner
-- 👀 I’m interested in Snowflake
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 💞️ I’m looking to collaborate on ... -->
+- 👀 I’m interested in Snowflake, Perl, and Python
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything Snowflake related. 
 - 📫 How to reach me thomaseibner @ gmail.com
-
-<!---
-thomaseibner/thomaseibner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
